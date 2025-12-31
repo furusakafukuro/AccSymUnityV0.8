@@ -362,6 +362,7 @@
 "Assets/AccSymUnity/Scripts/ParticleState.cs"
 "Assets/AccSymUnity/Scripts/SimulationController.cs"
 "Assets/AccSymUnity/Scripts/StatusHUD.cs"
+"Assets/Scripts/ParticleVisualBuilder.cs"
 -langversion:9.0
 
 /deterministic
